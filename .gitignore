@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Kunci API dan rahasia
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Folder hasil build
+dist/
+build/
+node_modules/
